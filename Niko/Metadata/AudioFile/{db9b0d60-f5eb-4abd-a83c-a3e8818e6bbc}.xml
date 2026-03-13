@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{db9b0d60-f5eb-4abd-a83c-a3e8818e6bbc}">
+		<property name="assetPath">
+			<value>Ascensor_02.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>26.247895833333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{015a938a-ab77-4874-bf4d-d592071ccaa0}</destination>
+		</relationship>
+	</object>
+</objects>
