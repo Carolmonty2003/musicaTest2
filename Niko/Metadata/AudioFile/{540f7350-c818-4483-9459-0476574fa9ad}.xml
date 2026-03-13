@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{540f7350-c818-4483-9459-0476574fa9ad}">
+		<property name="assetPath">
+			<value>concept_weapon.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.3636507936507938</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{015a938a-ab77-4874-bf4d-d592071ccaa0}</destination>
+		</relationship>
+	</object>
+</objects>
